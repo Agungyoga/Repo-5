@@ -1,3 +1,5 @@
+git config --global user.name "agungyoga"
+git config --global user.email "agungyoga373@gmail.com"
 git add .
 git commit -am "edit test"
 git push origin master
