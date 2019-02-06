@@ -1,3 +1,6 @@
+ git config --global --unset credential.helper
+ git config --global --unset user.name
+git config --global --unset user.email
 git config --global user.name "agungyoga"
 git config --global user.email "agungyoga373@gmail.com"
 git add .
