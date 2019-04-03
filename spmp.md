@@ -23,6 +23,9 @@
 <b><font size="3">2019</font></b></p>
 <p>&nbsp;</p>
 
+<p align="center"><b><font size="5">BAB I</font></b><br>
+<b><font size="3">PENDAHULUAN</font></b></p>
+
 <center><b><font size="3">BAB I</font></b>
 <b><font size="3">PENDAHULUAN</font></b></center>
 <p style="text-align: center;"><strong>&nbsp;</strong></p>
