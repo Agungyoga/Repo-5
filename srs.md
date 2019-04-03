@@ -1,20 +1,20 @@
-<p style="text-align: center;"><strong>SOFTWARE REQUIREMENTS SPECIFICATIONS</strong></p>
-<p style="text-align: center;"><strong>APLIKASI PENJUALAN </strong><strong>OLAHAN </strong></p>
-<p style="text-align: center;"><strong>BUAH MANGGA</strong> <strong>INDRAMAYU BERBASIS MOBILE</strong></p>
-<p style="text-align: center;"><strong>TIKB2293 PROYEK II </strong></p>
-<p style="text-align: center;">Diajukan untuk Memenuhi Persyaratan Mata Kuliah Proyek II</p>
-<p style="text-align: center;">&nbsp;<img src="https://github.com/diyanto29/SPMP-TIC17-5/blob/master/Gambar/POLINDRA.png?raw=true" alt="" width="512" height="512" /></p>
+<p style="align: center;"><strong>SOFTWARE REQUIREMENTS SPECIFICATIONS</strong></p>
+<p style="align: center;"><strong>APLIKASI PENJUALAN </strong><strong>OLAHAN </strong></p>
+<p style="align: center;"><strong>BUAH MANGGA</strong> <strong>INDRAMAYU BERBASIS MOBILE</strong></p>
+<p style="align: center;"><strong>TIKB2293 PROYEK II </strong></p>
+<p style="align: center;">Diajukan untuk Memenuhi Persyaratan Mata Kuliah Proyek II</p>
+<p style="align: center;">&nbsp;<img src="https://github.com/diyanto29/SPMP-TIC17-5/blob/master/Gambar/POLINDRA.png?raw=true" alt="" width="512" height="512" /></p>
 <p><strong>&nbsp;</strong></p>
-<p style="text-align: center;">Disusun Oleh:</p>
-<p style="text-align: center;">Dianto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1703077)</p>
-<p style="text-align: center;">Agung Yoga&nbsp;&nbsp; (1703063)</p>
-<p style="text-align: center;">Juan Juliyanto (1703065)</p>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><strong>D3 TEKNIK INFORMATIKA</strong></p>
-<p style="text-align: center;"><strong>POLITEKNIK NEGERI INDRAMAYU</strong></p>
-<p style="text-align: center;"><strong>&nbsp;</strong></p>
-<p style="text-align: center;">Jl. Lohbener Lama No.08, Lohbener, Indramayu, Legok, Lohbener, Kabupaten Indramayu, Jawa Barat 45252, Indonesia</p>
+<p style="align: center;">Disusun Oleh:</p>
+<p style="align: center;">Dianto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1703077)</p>
+<p style="align: center;">Agung Yoga&nbsp;&nbsp; (1703063)</p>
+<p style="align: center;">Juan Juliyanto (1703065)</p>
+<p style="align: center;">&nbsp;</p>
+<p style="align: center;">&nbsp;</p>
+<p style="align: center;"><strong>D3 TEKNIK INFORMATIKA</strong></p>
+<p style="align: center;"><strong>POLITEKNIK NEGERI INDRAMAYU</strong></p>
+<p style="align: center;"><strong>&nbsp;</strong></p>
+<p style="align: center;">Jl. Lohbener Lama No.08, Lohbener, Indramayu, Legok, Lohbener, Kabupaten Indramayu, Jawa Barat 45252, Indonesia</p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
