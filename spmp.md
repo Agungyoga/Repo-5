@@ -25,10 +25,6 @@
 
 <p align="center"><b><font size="5">BAB I</font></b><br>
 <b><font size="3">PENDAHULUAN</font></b></p>
-
-<center><b><font size="3">BAB I</font></b>
-<b><font size="3">PENDAHULUAN</font></b></center>
-<p style="text-align: center;"><strong>&nbsp;</strong></p>
 <ul>
 <li><strong>Gambaran Proyek</strong></li>
 </ul>
@@ -152,8 +148,8 @@
 <p><strong><br /> </strong></p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
-<h3 style="text-align: center;"><strong>BAB II</strong></h3>
-<h3 style="text-align: center;">ORGANISASI PROYEK</h3>
+<p align="center"><b><font size="5">BAB II</font></b><br>
+<b><font size="3">ORGANISASI PROYEK</font></b></p>
 <ul>
 <li><strong>Model proses</strong></li>
 </ul>
@@ -241,9 +237,8 @@
 <li>Bertanggung jawab dalam pembuatan ERD</li>
 <li>Bertanggung jawab dalam pembuatan DFD</li>
 </ol>
-<p style="text-align: center;"><strong><br /> </strong></p>
-<p style="text-align: center;"><strong>BAB III</strong></p>
-<p style="text-align: center;"><strong>PROSES MANAJERIAL</strong></p>
+<p align="center"><b><font size="5">BAB III</font></b><br>
+<b><font size="3">PROSES MANAJERIAL</font></b></p>
 <p><strong>&nbsp;</strong></p>
 <ul>
 <li><strong>Tujuan dan prioritas manajemen</strong></li>
@@ -292,8 +287,8 @@
 </ol>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><strong>BAB IV</strong></p>
-<p style="text-align: center;"><strong>PROSES TEKNIS</strong></p>
+<p align="center"><b><font size="5">BAB IV</font></b><br>
+<b><font size="3">PROSES TEKNIS</font></b></p>
 <p><strong>&nbsp;</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplikasi ini menggunakan pemrograman berbasis mobile dengan tampilan yang sederhana sehingga mudah digunakan dan aplikasi ini dapat memberikan update data yang real-time sehingga memberikan informasi yang akurat.</p>
 <ul>
@@ -328,8 +323,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aplikasi ini membutuhkan sistem analisis dan administrasi jaringan untuk mengelola aplikasi.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><strong>BAB V</strong></p>
-<p style="text-align: center;"><strong>PAKET PEKERJAAN</strong></p>
+<p align="center"><b><font size="5">BAB V</font></b><br>
+<b><font size="3">PAKET PEKERJAAN</font></b></p>
 <p><strong>&nbsp;</strong></p>
 <ul>
 <li><strong>Paket pekerjaan</strong></li>
