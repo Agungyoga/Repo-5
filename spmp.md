@@ -1,5 +1,6 @@
-<p align="center"><font size="5"><b>Software Project Management Plan</b></font><br>
-"Sistem Informasi Absensi dan Penggajian Kafka Konveksi"</p>
+<p align="center"><font size="5"><b>SOFTWARE PROJECT MANAGEMENT PLAN</b></font><br>
+	<font size="5"><b>APLIKASI PENJUALAN OLAHAN</b></font><br>
+	<font size="5"><b>BUAH MANGGA INDRAMAYU BERBASIS MOBILE</b></font><br></p>
 
 <p align="center"><img src="Gambar/POLINDRA.png" width="250" height="250"></p>
 
